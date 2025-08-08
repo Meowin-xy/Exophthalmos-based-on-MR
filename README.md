@@ -11,15 +11,15 @@ Including landmark identification and eyeball segmentation
 (1) **Image Standardization** – Implemented in [Standardize.py](file:///Users/owme/Documents/GitHub/Exophthalmos-based-on-MR/01%20Preprocessing/Standardize.py)  
 (2) **Image Cropping** (dimensions: 320×112×80 / 320×112×20) – Implemented in [Crop.py](file:///Users/owme/Documents/GitHub/Exophthalmos-based-on-MR/01%20Preprocessing/Crop.py)  
 
-## 3. Zygomatic Process Vertex Identification  
-*(Content pending)*   @wcy
+## 3. Zygomatic Process Vertex Identification  wcy
+(1) 2D 
+(2) 3D   
 
 ## 4. Eyeball Segmentation using UNET  
 (1) 2D implementation  
 (2) 3D implementation  
 
-## 5. Exophthalmos Measurement Calculation  
-*(Content pending)*  @wcy
+## 5. Exophthalmos Measurement Calculation   wcy
 
-## 6. Web Application Integration  
+## 6. Web Application Integration 
 *(Concept under consideration)*  
